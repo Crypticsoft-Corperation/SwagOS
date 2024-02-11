@@ -1,4 +1,4 @@
-# SwagOS 1.0
+# SwagOS 1.1 Beta Release
 
 **Setup Process:**
 > 1. Download the zip and extract it
