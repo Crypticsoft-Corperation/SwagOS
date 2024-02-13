@@ -1,6 +1,7 @@
-# SwagOS 1.1 Beta Release
+# SwagOS 1.1
+Follow this quick guide to setup SwagOS
 
-**Setup Process:**
+# Setup Process
 > 1. Download the zip and extract it
 > 2. install any requirements onto your computer swagos may need you can find a list of these in the requirements section in this tutorial
 > 3. Open Windows Command Prompt/Powershell/Terminal 
