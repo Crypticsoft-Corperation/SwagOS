@@ -1,4 +1,4 @@
-# SwagOS 2.0
+# SwagOS 2.1
 Follow this quick guide to setup SwagOS
 
 # Setup Process
